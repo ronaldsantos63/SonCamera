@@ -1,6 +1,8 @@
 {
   "name": "SonCamera",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular",
   "pro_id": "ab7f70eb"
 }
